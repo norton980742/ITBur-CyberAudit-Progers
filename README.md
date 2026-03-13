@@ -2,14 +2,14 @@
 
 ## Участники команды
 
-<h3>Капитан <img src="/icon/captain.png" height=20 align="center"></h3> 
+<h3>Капитан <img src="https://cdn-icons-png.flaticon.com/128/2969/2969933.png" height=20 align="center"></h3> 
 
 Рязанов Сергей Иванович, МБОУ Таксимовская СОШ №1 имени А.А.Мезенцева, 
-<img src="/icon/telegram.png" height=20 align="center"> Telegram: @microtip93 
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height=20 align="center"> Telegram: @microtip93 
 
-<h4>Участники <img src="/icon/member.png" height=20 align="center"></h4> 
+<h4>Участники <img src="https://cdn-icons-png.flaticon.com/128/476/476863.png" height=20 align="center"></h4> 
 
-Дрокин Вадим Алексеевич, МБОУ Таксимовская СОШ №1 имени А.А.Мезенцева
+Дрокин Вадим Алексеевич, МБОУ Таксимовская СОШ №1 имени А.А.Мезенцева  
 Загарий Тимофей Романович, МБОУ Таксимовская СОШ №1 имени А.А.Мезенцева
 
 ## Описание проекта
@@ -18,20 +18,20 @@
 
 ## Системные требования
 
-Операционная система: GNU/Linux <img src="/icon/linux.png" height=20 align="center">
-Необходимая версия Python: Python 3.13.9 <img src="/icon/python.png" height=20 align="center">
-Список зависимостей: Стандартные зависимости Python
+Операционная система: GNU/Linux <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" height=20 align="center">  
+Необходимая версия Python: Python 3.13.9 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height=20 align="center">  
+Список зависимостей: Стандартные зависимости Python  
 Команда для запуска приложения: python main.py
 
 ## Инструкция по установке и запуску:
 
-git clone https://github.com
-cd ITBur-CyberAudit-Прогеры
+git clone https://github.com  
+cd ITBur-CyberAudit-Прогеры  
 python main.py
 
 ## Пример работы
 
-<img src="/source/CatchStart.png">
-<img src="/source/CatchMenu.png">
-<img src="/source/CatchAudit.png">
-<img src="/source/CatchJson.png">
+<img src="https://s10.iimage.su/s/13/glE5lTLxEEbp273eKGszVqSe4Bdp1ESNliHNsXze3.png">
+<img src="https://s10.iimage.su/s/13/gAOzrPUxKZhUyPlgUBRasT5Vkgds1zRBwS0ywzXPE.png">
+<img src="https://s10.iimage.su/s/13/gRE3QTIx2v2jjbGbSML3rp3fzkigN9vCVT8NWJlJl.png">
+<img src="https://s10.iimage.su/s/13/g8pZ3rgxoObtbLIgwhmpsMuf2p6JnwCfG850FClBa.png">
