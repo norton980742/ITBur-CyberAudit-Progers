@@ -25,9 +25,11 @@
 
 ## Инструкция по установке и запуску:
 
+```bash
 git clone https://github.com/norton980742/ITBur-CyberAudit-Progers  
 cd ITBur-CyberAudit-Progers  
 python main.py
+```
 
 ## Пример работы
 
