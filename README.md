@@ -18,7 +18,7 @@
 
 ## Системные требования
 
-Операционная система: GNU/Linux <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" height=20 align="center">  
+Операционная система: GNU/Linux (Arch, CachyOS, Kali) <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" height=20 align="center">  
 Необходимая версия Python: Python 3.13.9 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height=20 align="center">  
 Список зависимостей: Стандартные зависимости Python  
 Команда для запуска приложения: python main.py
