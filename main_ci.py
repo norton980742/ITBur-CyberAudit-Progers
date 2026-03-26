@@ -13,7 +13,8 @@ class SecurityScanner:
             '80': 'HTTP', '110': 'POP3', '135': 'RPC', '139': 'NetBIOS', 
             '445': 'SMB (EternalBlue Risk)', '1433': 'MSSQL', '3306': 'MySQL', 
             '3389': 'RDP', '5432': 'PostgreSQL', '6379': 'Redis', 
-            '9200': 'ElasticSearch', '27017': 'MongoDB'
+            '9200': 'ElasticSearch', '27017': 'MongoDB',
+            '22': 'SSH'
         }
         
         self.critical_software = {
