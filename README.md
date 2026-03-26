@@ -29,13 +29,13 @@
 git clone https://github.com/norton980742/ITBur-CyberAudit-Progers  
 cd ITBur-CyberAudit-Progers  
 ```
-Запустить консольный вариант:
+Запустить графический вариант:
 
 ```bash
 python main.py
 ```
 
-Запустить графический вариант:
+Запустить консольный вариант:
 
 ```bash
 python main_ci.py
