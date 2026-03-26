@@ -24,7 +24,7 @@ class SecurityScannerGUI:
 
         self.findings = []
         self.is_scanning = False
-        self.risky_ports = {'21': 'FTP', '23': 'Telnet', '80': 'HTTP', '22': 'SSH', '445': 'SMB', '3389': 'RDP'}
+        self.risky_ports = {'21': 'FTP', '23': 'Telnet', '80': 'HTTP', '22': 'SSH', '445': 'SMB', '3389': 'RDP', '3306': 'MySql'}
 
         self.critical_software = {
             'nginx': '1.26.0', 'openssh-server': '9.0', 'openssl': '3.0.0',
